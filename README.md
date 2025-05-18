@@ -1,6 +1,5 @@
 # Asistencia
 
-Este proyecto es una aplicación desarrollada en Scala para gestionar la asistencia de estudiantes. Forma parte de las tareas de la asignatura "Algoritmos y Estructuras de Datos".
 
 ## Características
 
@@ -17,7 +16,7 @@ Este proyecto es una aplicación desarrollada en Scala para gestionar la asisten
 
 1. Clona este repositorio:
     ```bash
-    git clone <URL-del-repositorio>
+    git clone https://github.com/eldmark/asistencia.git
     ```
 2. Accede al directorio del proyecto:
     ```bash
